@@ -13,7 +13,5 @@ Being based on phusion\baseimage image (despite docker's best practices) this im
 Just run
 
 ```
-
 docker pull fefelovgroup/pg9.4-client
-
 ```
