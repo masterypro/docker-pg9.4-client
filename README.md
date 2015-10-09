@@ -7,3 +7,13 @@ Being based on phusion\baseimage image (despite docker's best practices) this im
  - postgres 9.4 being ready for barman replication which requires ssh access
 
  - barman (backup manager from 2nd Quadrant for postgres databases)
+
+# Usage
+
+Just run
+
+```
+
+docker pull fefelovgroup/pg9.4-client
+
+```
